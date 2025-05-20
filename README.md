@@ -18,13 +18,21 @@ This project demonstrates object relationships, data validation, and aggregate c
 pipenv install
 pipenv shell
 
-Project Structure
+## Project Structure
+
 Coffee_Shop_Challenge/
-|__ customer.py
-|__coffee.py 
-|__order.py
-|__main.py
-|__README.md
+
+customer.py
+
+coffee.py
+
+order.py
+
+main.py
+
+README.md
+
+Features Overview
 
 ## Project Overview
 
