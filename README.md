@@ -1,5 +1,5 @@
 
-# Coffee Shop Challenge ☕
+# Coffee Shop Challenge 
 
 A Python project modeling a coffee shop domain with three core entities: **Customer**, **Coffee**, and **Order**.  
 This project demonstrates object relationships, data validation, and aggregate calculations through OOP.
@@ -20,10 +20,12 @@ pipenv shell
 
 ## Project structure
 coffee-shop-challenge/
+
 ├── coffee.py
 ├── customer.py
 ├── order.py
 ├── debug.py
+
 ├── tests/
 │   ├── coffee_test.py
 │   ├── customer_test.py
